@@ -1,0 +1,2 @@
+https://towardsdatascience.com/how-i-designed-my-own-data-science-portfolio-website-3d146ea6b6cd
+https://jekyllrb.com/docs/
