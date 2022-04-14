@@ -2301,7 +2301,7 @@ input, select, textarea {
 		}
 
 		.icon.style1:before {
-			color: #c3e895;
+			color: #95a1e8;
 		}
 
 		.icon.style2:before {
@@ -2313,7 +2313,7 @@ input, select, textarea {
 		}
 
 		.icon.style4:before {
-			color: #57aed3;
+			color: #6bc9d4;
 		}
 
 		.icon.style5:before {
@@ -2321,7 +2321,7 @@ input, select, textarea {
 		}
 
 		.icon.style6:before {
-			color: #6b88e6;
+			color: #829efc;
 		}
 
 		.icon.major {
@@ -2341,7 +2341,7 @@ input, select, textarea {
 				text-rendering: auto;
 				line-height: 1;
 				text-transform: none !important;
-				font-family: 'Font Awesome 5 Free';
+				font-family: 'Font Awesome 5 Free', 'Font Awesome 5 Brands';
 				font-weight: 400;
 			}
 
